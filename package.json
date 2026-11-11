@@ -1,0 +1,16 @@
+{
+  "name": "albumexpress",
+  "version": "1.0.0",
+  "description": "API de fotos con Express 5",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
